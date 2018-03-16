@@ -1,0 +1,3 @@
+URL = "http://omms.nic.in/MPR/MPR/MPR1LayoutDynamic?_=1518120817366"
+NO_OF_STATES = 36
+OUTPUT_FILENAME = "PMGSY.csv"
